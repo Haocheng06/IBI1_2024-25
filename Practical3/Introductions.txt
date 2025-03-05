@@ -1,0 +1,5 @@
+Hello, my name is Haocheng Tang.
+I like drinking tea and coffee.
+I am enjoying teaching IBI1 in person again 
+I am happy that I can push my repo from Visual Studio Code to GitHub
+I am occupied with the shcoolworks.
