@@ -7,7 +7,7 @@
 height=float(input("input your height in m ")) # Prompt the user to input their height in meters and convert the input to a floating - point number
 weight=float(input("input your weight in kg "))# Prompt the user to input their weight in kilograms and convert the input to a floating - point number
 BMI=weight/height**2 #calclate BMI using the formula weight
-print("You BMI is", BMI) # Print the calculated BMI value
+print("You BMI is", str(round(BMI,2))) # Print the calculated BMI value with 2 decimal
 if BMI>=30: # Check if the BMI is greater than or equal to 30
     print ("You are overweight!") #If the condition is true, print a message indicating the person is overweiht
 elif BMI>=18.5: # Check if the BMI is greater than or equal to 18.5 (but less than 30)
