@@ -1,5 +1,5 @@
 #create a dictionary containing all data
-#import the plt model
+#import the plt module
 #draw the bar according to the data in the dictionary
 #show the bar
 #input what language's percentage user want to know
@@ -8,7 +8,7 @@
 #create dict
 dic={ 'JavaScript':62.3, 'HTML':52.9, 'Python':51, 'SQL':51, 'TypeScript':38.5}
 
-#lead in the model
+#lead in the module
 import matplotlib.pyplot as plt
 
 #get keys of dict as x-axis data

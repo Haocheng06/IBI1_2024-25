@@ -1,6 +1,6 @@
 #create two lists
 #sort these two lists
-#import the mmodel 
+#import the module 
 #prepare the list containing different places for later pie
 #create the figure and divide it into two subpart 
 #create two pie whose data saved in 1 decimal 
