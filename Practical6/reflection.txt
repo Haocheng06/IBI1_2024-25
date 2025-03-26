@@ -1,0 +1,3 @@
+This Practical is quite demanding 
+This involves so many loop and "if" structure, to make sense the logic is quite difficult
+Also I haven't got some function, like "inshow",I need to learn them by myself after class.
