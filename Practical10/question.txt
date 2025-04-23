@@ -1,0 +1,6 @@
+Question:  How has the relationship between the DALYs in China and the UK changed over time?
+           Are they becoming more similar, less similar?
+
+line number: 44-51
+ Answer: CHina's DALYs are bigger than the UK's all the way. But both of their DALYs are becoming less and less, and their distance is getting closer, 
+ which means they are becoming more similar.
