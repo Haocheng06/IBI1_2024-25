@@ -15,7 +15,9 @@ while progress>=0:
 	progress+=1
 	first_n = randint(1,6)
 	second_n = randint(1,6)
+	print(first_n)
+	print(second_n)
 	if first_n == second_n:
-		print(progress)
+		print(progress+1)
 		break
 
