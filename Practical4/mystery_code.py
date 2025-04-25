@@ -18,6 +18,6 @@ while progress>=0:
 	print(first_n)
 	print(second_n)
 	if first_n == second_n:
-		print(progress+1)
+		print(progress)
 		break
 
